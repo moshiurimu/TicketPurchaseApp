@@ -1,0 +1,32 @@
+D:\BASIS Training\Course Content\Couse Content of OOP\1. C# Fundamental\Part1\TicketPurchase\TicketPurchase\bin\Debug\TicketPurchase.exe
+D:\BASIS Training\Course Content\Couse Content of OOP\1. C# Fundamental\Part1\TicketPurchase\TicketPurchase\bin\Debug\TicketPurchase.pdb
+D:\BASIS Training\Course Content\Couse Content of OOP\1. C# Fundamental\Part1\TicketPurchase\TicketPurchase\obj\Debug\ResolveAssemblyReference.cache
+D:\BASIS Training\Course Content\Couse Content of OOP\1. C# Fundamental\Part1\TicketPurchase\TicketPurchase\obj\Debug\TicketPurchase.PurchaseTicketUI.resources
+D:\BASIS Training\Course Content\Couse Content of OOP\1. C# Fundamental\Part1\TicketPurchase\TicketPurchase\obj\Debug\TicketPurchase.Properties.Resources.resources
+D:\BASIS Training\Course Content\Couse Content of OOP\1. C# Fundamental\Part1\TicketPurchase\TicketPurchase\obj\Debug\ResGen.read.1.tlog
+D:\BASIS Training\Course Content\Couse Content of OOP\1. C# Fundamental\Part1\TicketPurchase\TicketPurchase\obj\Debug\ResGen.write.1.tlog
+D:\BASIS Training\Course Content\Couse Content of OOP\1. C# Fundamental\Part1\TicketPurchase\TicketPurchase\obj\Debug\TicketPurchase.exe
+D:\BASIS Training\Course Content\Couse Content of OOP\1. C# Fundamental\Part1\TicketPurchase\TicketPurchase\obj\Debug\TicketPurchase.pdb
+E:\StoreRoom\BASIS Training\Course Content\Couse Content of OOP\1. C# Fundamental\Part1\TicketPurchase\TicketPurchase\obj\Debug\TicketPurchase.exe
+E:\StoreRoom\BASIS Training\Course Content\Couse Content of OOP\1. C# Fundamental\Part1\TicketPurchase\TicketPurchase\obj\Debug\TicketPurchase.pdb
+E:\StoreRoom\BASIS Training\Course Content\Couse Content of OOP\1. C# Fundamental\Part1\TicketPurchase\TicketPurchase\bin\Debug\TicketPurchase.exe
+E:\StoreRoom\BASIS Training\Course Content\Couse Content of OOP\1. C# Fundamental\Part1\TicketPurchase\TicketPurchase\bin\Debug\TicketPurchase.pdb
+E:\StoreRoom\BASIS Training\Course Content\Couse Content of OOP\1. C# Fundamental\Part1\TicketPurchase\TicketPurchase\obj\Debug\ResolveAssemblyReference.cache
+E:\StoreRoom\BASIS Training\Course Content\Couse Content of OOP\1. C# Fundamental\Part1\TicketPurchase\TicketPurchase\obj\Debug\TicketPurchase.PurchaseTicketUI.resources
+E:\StoreRoom\BASIS Training\Course Content\Couse Content of OOP\1. C# Fundamental\Part1\TicketPurchase\TicketPurchase\obj\Debug\TicketPurchase.Properties.Resources.resources
+E:\StoreRoom\BASIS Training\Course Content\Couse Content of OOP\1. C# Fundamental\Part1\TicketPurchase\TicketPurchase\obj\Debug\ResGen.read.1.tlog
+E:\StoreRoom\BASIS Training\Course Content\Couse Content of OOP\1. C# Fundamental\Part1\TicketPurchase\TicketPurchase\obj\Debug\ResGen.write.1.tlog
+D:\BASIS Training Contents\13 Sep 2014\Lesson 02 - Basic Programming using C#\Samples\TicketPurchase\TicketPurchase\obj\Debug\TicketPurchase.exe
+D:\BASIS Training Contents\13 Sep 2014\Lesson 02 - Basic Programming using C#\Samples\TicketPurchase\TicketPurchase\obj\Debug\TicketPurchase.pdb
+D:\BASIS Training Contents\13 Sep 2014\Lesson 02 - Basic Programming using C#\Samples\TicketPurchase\TicketPurchase\bin\Debug\TicketPurchase.exe
+D:\BASIS Training Contents\13 Sep 2014\Lesson 02 - Basic Programming using C#\Samples\TicketPurchase\TicketPurchase\bin\Debug\TicketPurchase.pdb
+D:\BASIS Training Contents\13 Sep 2014\Lesson 02 - Basic Programming using C#\Samples\TicketPurchase\TicketPurchase\obj\Debug\TicketPurchase.PurchaseTicketUI.resources
+D:\BASIS Training Contents\13 Sep 2014\Lesson 02 - Basic Programming using C#\Samples\TicketPurchase\TicketPurchase\obj\Debug\TicketPurchase.Properties.Resources.resources
+D:\BASIS Training Contents\13 Sep 2014\Lesson 02 - Basic Programming using C#\Samples\TicketPurchase\TicketPurchase\obj\Debug\TicketPurchase.csproj.GenerateResource.Cache
+F:\BASIS OOP ASP.NET 49 Batch\15 Sep 2014\Day 01 - Basic Programming using C# Document\Day 01 - Basic Programming using C# Document\Samples\TicketPurchase\TicketPurchase\obj\Debug\TicketPurchase.exe
+F:\BASIS OOP ASP.NET 49 Batch\15 Sep 2014\Day 01 - Basic Programming using C# Document\Day 01 - Basic Programming using C# Document\Samples\TicketPurchase\TicketPurchase\obj\Debug\TicketPurchase.pdb
+F:\BASIS OOP ASP.NET 49 Batch\15 Sep 2014\Day 01 - Basic Programming using C# Document\Day 01 - Basic Programming using C# Document\Samples\TicketPurchase\TicketPurchase\bin\Debug\TicketPurchase.exe
+F:\BASIS OOP ASP.NET 49 Batch\15 Sep 2014\Day 01 - Basic Programming using C# Document\Day 01 - Basic Programming using C# Document\Samples\TicketPurchase\TicketPurchase\bin\Debug\TicketPurchase.pdb
+F:\BASIS OOP ASP.NET 49 Batch\15 Sep 2014\Day 01 - Basic Programming using C# Document\Day 01 - Basic Programming using C# Document\Samples\TicketPurchase\TicketPurchase\obj\Debug\TicketPurchase.PurchaseTicketUI.resources
+F:\BASIS OOP ASP.NET 49 Batch\15 Sep 2014\Day 01 - Basic Programming using C# Document\Day 01 - Basic Programming using C# Document\Samples\TicketPurchase\TicketPurchase\obj\Debug\TicketPurchase.Properties.Resources.resources
+F:\BASIS OOP ASP.NET 49 Batch\15 Sep 2014\Day 01 - Basic Programming using C# Document\Day 01 - Basic Programming using C# Document\Samples\TicketPurchase\TicketPurchase\obj\Debug\TicketPurchase.csproj.GenerateResource.Cache
